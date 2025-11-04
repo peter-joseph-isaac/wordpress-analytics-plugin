@@ -4,7 +4,7 @@
 **Version:** 1.0  
 **License:** GPL2  
 
-A lightweight WordPress plugin that tracks post views and displays them in a clean, interactive analytics dashboard inside the WordPress admin area — powered by Chart.js.
+A lightweight WordPress plugin that tracks post views and displays them in a clean, interactive analytics dashboard inside the WordPress admin area. Powered by Chart.js.
 
 ## 🧩 Features
 - Automatically tracks individual post views.
